@@ -1,0 +1,145 @@
+hr{
+    clear: left;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    background-color: rgb(27, 27, 27);
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.4rem;
+    color: rgb(232, 230, 219);
+}
+
+h1{
+    margin: -50px auto -100px auto;
+    font-family: 'Unbounded', cursive;
+    font-size: 10rem;
+    text-transform: none;
+    color: rgb(225, 210, 255);
+    line-height: 200%;
+}
+
+h2{
+    font-family: 'Raleway', sans-serif;
+    color: rgb(225, 210, 255);
+    text-transform: uppercase;
+}
+
+h3{
+    font-family: 'Raleway', sans-serif;
+    color: rgb(232, 230, 219);
+    text-transform: uppercase;
+}
+
+h4{
+    font-family: 'Unbounded', cursive;
+    text-transform: none;
+    font-size: 2.3rem;
+    font-weight: 500;
+    color: rgb(232, 230, 219);
+}
+
+div {
+    padding: 20px;
+}
+
+.skills {
+    margin: auto;
+}
+
+.topContainer {
+    background-color: rgb(27, 27, 27);
+    padding-top: 100px;
+}
+
+.bottomCloud {
+    position: absolute;
+    left: 600px;
+}
+
+.topCloud {
+    position: absolute;
+    right: 600px;
+    top: 40px;
+}
+
+.container{
+    display: inline-block;
+    position: relative;
+    margin: auto;
+}
+
+.imgWork1{
+    height: 40rem;
+    width: auto;
+    border-radius: 20px;
+}
+
+.imgWork2{
+    height: 40rem;
+    width: auto;
+    border-radius: 20px;
+}
+
+.pfp{
+    height: 300px;
+    width: auto;
+}
+
+.profile{
+    width: 36%;
+    margin: 20px auto 50px auto;
+    line-height: 1.5;
+}
+
+.skill-row{
+    width: 40%;
+    margin: 20px auto 50px auto;
+    text-align: left;
+    line-height: 1.5;
+    clear: left;
+}
+
+.contact-me{
+    width: 30%;
+    margin: 20px auto 50px auto;
+    line-height: 1.5;
+}
+
+.btn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #3b3b3b;
+    font-size: 20px;
+    background: #e9d9ff;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+.btn:hover {
+    background: #f2e9cb;
+    text-decoration: none;
+}
+
+.bottom-container{
+    background-color:#292929;
+}
+
+.footer-link{
+    color: rgb(225, 210, 255);
+    padding: 10px;
+    text-decoration: none;
+}
+
+a:hover{
+    color:#ababab;
+}
+
+.copyright{
+    color:aliceblue;
+    font-size: 0.75em;
+    padding: 20px 0;
+}
